@@ -459,7 +459,6 @@ public class protoOne {
 
         passwordLogIn.setBounds(frameDimensions.widthCenter / 2, 175, 200, 35);
 
-       
         loginLabel.setBounds(frameDimensions.widthCenter / 5 * 4, 50, 100, 30);
         loginLabel.setFont(TITLE_FONT);
 
